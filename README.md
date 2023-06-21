@@ -7,3 +7,8 @@
 
 Welcome!
 This is the code for our project to recognize attention while working at a computer.
+
+
+# How to use?
+
+You may install the.exe app, or implement the following code into your python interpreter.
